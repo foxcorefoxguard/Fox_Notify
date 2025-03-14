@@ -2,11 +2,11 @@
 Free Release will come with FoxCore Created by OutlawFoxTV | Lead Developer of FoxCore
 
 # 🎯 Features
-🔄 Dynamic Notification Limit: Configurable maximum number of visible notifications.
-⏰ Custom Duration: Set how long each notification should last.
-🎨 Smooth Animations: Clean sliding and fading animations.
-🔗 Simple Exports: Easy to trigger from any resource.
-📦 Positioning Options: Can be changed via the config.lua.
+## 🔄 Dynamic Notification Limit: Configurable maximum number of visible notifications.
+## ⏰ Custom Duration: Set how long each notification should last.
+## 🎨 Smooth Animations: Clean sliding and fading animations.
+## 🔗 Simple Exports: Easy to trigger from any resource.
+## 📦 Positioning Options: Can be changed via the config.lua.
 
 
 # Exports 
